@@ -41,3 +41,13 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+gem 'mongoid', github: 'mongoid/mongoid'
+gem "rspec-rails", ">= 2.14.0", :group => [:development, :test]
+gem "capybara", ">= 2.1.0", :group => :test
+gem "database_cleaner", "~> 1.1.1", :group => :test
+gem "mongoid-rspec", "~> 1.9.0", :group => :test
+gem "email_spec", "~> 1.5.0", :group => :test
+gem "cucumber-rails", ">= 1.4.0", :group => :test, :require => false
+gem "launchy", "~> 2.3.0", :group => :test
+gem "factory_girl_rails", "~> 4.2.1", :group => [:development, :test]
+gem "devise", "~> 3.1.0"
