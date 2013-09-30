@@ -4,4 +4,4 @@ Rails Tutorial for Devise with Mongoid at http://railsapps.github.io/tutorial-ra
 
 Here I rewrote for Rails 4.
 
-As I'm not RoR there can be mistakes, but I was able to check its functionality. :)
+As I'm not RoR guru, there can be mistakes, but I was able to check its functionality. :)
